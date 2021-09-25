@@ -1,0 +1,39 @@
+⬛⬛⬛
+⬛⬛⬛
+⬛⬛⬛
+Player1:
+Enter the row of your move: 1 
+Enter the col of your move: 1
+
+⬛⬛⬛
+⬛⭕⬛
+⬛⬛⬛
+Player2:
+Enter the row of your move: 0
+Enter the col of your move: 0
+
+❌⬛⬛
+⬛⭕⬛
+⬛⬛⬛
+Player1:
+Enter the row of your move: 0
+Enter the col of your move: 2
+
+❌⬛⭕
+⬛⭕⬛
+⬛⬛⬛
+Player2:
+Enter the row of your move: 1
+Enter the col of your move: 0
+
+❌⬛⭕
+❌⭕⬛
+⬛⬛⬛
+Player1:
+Enter the row of your move: 2
+Enter the col of your move: 0
+
+❌⬛⭕
+❌⭕⬛
+⭕⬛⬛
+
